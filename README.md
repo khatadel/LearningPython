@@ -9,4 +9,5 @@ Start Python 3.14 for start create web application
 - #git commit -m "Create Project structure"
 - #git branch
 - git remote -v
-- 
+- #git config --list
+- git pull origin main --rebase
