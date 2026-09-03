@@ -7,4 +7,5 @@ Start Python 3.14 for start create web application
 - #git add css/* index.html
 - #git restore --staged adel.txt
 
-
+- #git commit -m "Create Project stracture"
+- 
